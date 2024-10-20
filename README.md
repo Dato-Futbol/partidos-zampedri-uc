@@ -20,4 +20,4 @@ Las columnas para cada fila son:
 * minutes_playerd: minutos jugados por F. Zampedri en ese partido
 
 
-Los datos fueron scrapeados desde [FBref]() y [Transfermarkt]()
+Los datos fueron scrapeados desde [FBref](https://fbref.com/en/players/b2756758/Fernando-Zampedri) y [Transfermarkt](https://www.transfermarkt.com/fernando-zampedri/leistungsdatendetails/spieler/104006/)
