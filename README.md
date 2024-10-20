@@ -1,8 +1,9 @@
 # partidos-zampedri-uc
 
-Este dataset en formato CSV contiene información de los 192 partidos jugados de Fernando Zampedri por el Club Deportivo Universidad Cátólica de Chile hasta el 19 de Octubre de 2024, día en el cual alcanzó el récord de máximo goleador histórico del club con 119 anotaciones.
+Este dataset en formato CSV contiene información de los 192 partidos jugados por Fernando Zampedri con la camiseta del Club Deportivo Universidad Cátólica de Chile hasta el 19 de Octubre de 2024, día en el cual alcanzó el récord de máximo goleador histórico del club con 119 anotaciones.
 
 Cada fila del archivo CSV corresponde a la información de un partido.
+
 Las columnas para cada fila son:
 
 * cum_n_games: cantidad acumulada de partidos (o número de partido) ordenados cronológicamente
