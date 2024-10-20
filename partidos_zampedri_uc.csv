@@ -1,0 +1,193 @@
+cum_n_games,season,competition,round,date,team,venue,opponent,result,goals,cum_goals,minutes_played
+1,2018,Copa Chile,Semi-Finals,2020-01-18,Univ Católica,Away,Colo-Colo,D,0,0,90
+2,2020,Primera División,Matchweek 1,2020-01-26,Univ Católica,Away,Wanderers,W,1,1,90
+3,2020,Primera División,Matchweek 2,2020-02-02,Univ Católica,Home,O'Higgins,W,0,1,90
+4,2020,Primera División,Matchweek 3,2020-02-09,Univ Católica,Away,Antofagasta,W,2,3,90
+5,2020,Primera División,Matchweek 4,2020-02-16,Univ Católica,Away,Colo-Colo,W,0,3,90
+6,2020,Primera División,Matchweek 5,2020-02-21,Univ Católica,Home,Iquique,W,1,4,90
+7,2020,Primera División,Matchweek 6,2020-02-28,Univ Católica,Away,La Calera,D,1,5,90
+8,2020,Libertadores,Group stage,2020-03-03,Univ Católica,Away,Internacional,L,0,5,90
+9,2020,Libertadores,Group stage,2020-03-10,Univ Católica,Home,D América,L,0,5,90
+10,2020,Primera División,Matchweek 8,2020-03-14,Univ Católica,Away,Cobresal,W,0,5,90
+11,2020,Primera División,Matchweek 7,2020-08-29,Univ Católica,Home,Unión Española,L,0,5,81
+12,2020,Primera División,Matchweek 9,2020-09-05,Univ Católica,Home,Coquimbo Unido,W,0,5,77
+13,2020,Primera División,Matchweek 10,2020-09-09,Univ Católica,Away,Huachipato,W,1,6,88
+14,2020,Primera División,Matchweek 11,2020-09-13,Univ Católica,Home,Audax Italiano,W,0,6,72
+15,2020,Libertadores,Group stage,2020-09-16,Univ Católica,Home,Grêmio,W,1,7,82
+16,2020,Libertadores,Group stage,2020-09-23,Univ Católica,Away,D América,D,1,8,90
+17,2020,Primera División,Matchweek 12,2020-09-26,Univ Católica,Away,Everton,D,1,9,45
+18,2020,Libertadores,Group stage,2020-09-29,Univ Católica,Away,Grêmio,L,0,9,90
+19,2020,Primera División,Matchweek 13,2020-10-04,Univ Católica,Home,U de Chile,W,1,10,90
+20,2020,Primera División,Matchweek 14,2020-10-10,Univ Católica,Home,U Concepción,D,0,10,90
+21,2020,Libertadores,Group stage,2020-10-22,Univ Católica,Home,Internacional,W,2,12,90
+22,2020,Sudamericana,Second stage,2020-10-29,Univ Católica,Away,Sol de América,D,0,12,90
+23,2020,Primera División,Matchweek 17,2020-11-01,Univ Católica,Home,La Serena,W,0,12,61
+24,2020,Sudamericana,Second stage,2020-11-05,Univ Católica,Home,Sol de América,W,1,13,90
+25,2020,Primera División,Matchweek 16,2020-11-08,Univ Católica,Away,Palestino,W,1,14,90
+26,2020,Primera División,Matchweek 15,2020-11-11,Univ Católica,Away,Curico Unido,L,2,16,90
+27,2020,Primera División,Matchweek 18,2020-11-15,Univ Católica,Home,Cobresal,W,2,18,90
+28,2020,Primera División,Matchweek 19,2020-11-18,Univ Católica,Away,Coquimbo Unido,L,0,18,90
+29,2020,Primera División,Matchweek 20,2020-11-22,Univ Católica,Home,Antofagasta,W,1,19,31
+30,2020,Sudamericana,Round of 16,2020-11-26,Univ Católica,Away,River Plate,W,1,20,45
+31,2020,Sudamericana,Round of 16,2020-12-03,Univ Católica,Home,River Plate,L,0,20,90
+32,2020,Sudamericana,Quarter-finals,2020-12-08,Univ Católica,Away,Vélez Sarsfield,W,1,21,90
+33,2020,Primera División,Matchweek 21,2020-12-23,Univ Católica,Away,U de Chile,D,0,21,90
+34,2020,Primera División,Matchweek 26,2020-12-27,Univ Católica,Away,Audax Italiano,D,2,23,90
+35,2020,Primera División,Matchweek 22,2020-12-30,Univ Católica,Home,Wanderers,D,1,24,90
+36,2020,Primera División,Matchweek 28,2021-01-07,Univ Católica,Away,Iquique,W,0,24,90
+37,2020,Primera División,Matchweek 29,2021-01-10,Univ Católica,Home,Curico Unido,D,1,25,90
+38,2020,Primera División,Matchweek 30,2021-01-14,Univ Católica,Away,Unión Española,D,1,26,90
+39,2020,Primera División,Matchweek 31,2021-01-19,Univ Católica,Home,Everton,D,0,26,90
+40,2020,Primera División,Matchweek 23,2021-01-25,Univ Católica,Home,Palestino,L,0,26,90
+41,2020,Primera División,Matchweek 24,2021-01-30,Univ Católica,Away,O'Higgins,L,0,26,90
+42,2020,Primera División,Matchweek 32,2021-02-05,Univ Católica,Away,La Serena,W,0,26,90
+43,2020,Primera División,Matchweek 33,2021-02-10,Univ Católica,Home,La Calera,D,0,26,90
+44,2020,Primera División,Matchweek 34,2021-02-14,Univ Católica,Away,U Concepción,W,1,27,90
+45,2019,Supercopa,Final,2021-03-21,Univ Católica,Home,Colo-Colo,W,1,28,90
+46,2021,Primera División,Matchweek 2,2021-04-04,Univ Católica,Home,Palestino,W,1,29,90
+47,2021,Primera División,Matchweek 3,2021-04-10,Univ Católica,Away,Audax Italiano,L,0,29,90
+48,2021,Primera División,Matchweek 4,2021-04-16,Univ Católica,Home,Curico Unido,W,1,30,90
+49,2021,Libertadores,Group stage,2021-04-22,Univ Católica,Away,Nacional,L,0,30,90
+50,2021,Libertadores,Group stage,2021-04-29,Univ Católica,Home,Arg Juniors,L,0,30,90
+51,2021,Primera División,Matchweek 6,2021-05-02,Univ Católica,Away,Deportes Melipilla,L,0,30,90
+52,2021,Libertadores,Group stage,2021-05-05,Univ Católica,Home,Nacional,W,1,31,90
+53,2021,Primera División,Matchweek 7,2021-05-08,Univ Católica,Home,La Calera,W,0,31,18
+54,2021,Libertadores,Group stage,2021-05-12,Univ Católica,Away,Arg Juniors,W,1,32,90
+55,2021,Libertadores,Group stage,2021-05-18,Univ Católica,Away,Nacional,L,0,32,90
+56,2021,Primera División,Matchweek 8,2021-05-22,Univ Católica,Away,Unión Española,L,1,33,90
+57,2021,Primera División,Matchweek 9,2021-05-30,Univ Católica,Home,Cobresal,W,2,35,90
+58,2021,Primera División,Matchweek 10,2021-06-05,Univ Católica,Away,Wanderers,W,0,35,90
+59,2020,Copa Chile,Second Round 1st leg,2021-06-23,Univ Católica,Away,CD Iquique,D,0,35,88
+60,2020,Copa Chile,Second Round 2nd leg,2021-06-27,Univ Católica,Home,CD Iquique,D,1,36,90
+61,2020,Copa Chile,last 16 1st leg,2021-07-01,Univ Católica,Away,CD Everton,D,0,36,90
+62,2020,Copa Chile,last 16 2nd leg,2021-07-03,Univ Católica,Home,CD Everton,L,0,36,90
+63,2021,Libertadores,Round of 16,2021-07-14,Univ Católica,Home,Palmeiras,L,0,36,90
+64,2021,Primera División,Matchweek 11,2021-07-17,Univ Católica,Home,Colo-Colo,D,0,36,90
+65,2021,Libertadores,Round of 16,2021-07-21,Univ Católica,Away,Palmeiras,L,0,36,90
+66,2021,Primera División,Matchweek 12,2021-07-25,Univ Católica,Home,O'Higgins,W,0,36,90
+67,2021,Primera División,Matchweek 13,2021-07-29,Univ Católica,Away,Antofagasta,L,1,37,90
+68,2021,Primera División,Matchweek 14,2021-08-01,Univ Católica,Away,U de Chile,L,1,38,90
+69,2021,Primera División,Matchweek 15,2021-08-07,Univ Católica,Home,La Serena,W,2,40,90
+70,2021,Primera División,Matchweek 17,2021-08-22,Univ Católica,Home,Everton,W,0,40,90
+71,2021,Primera División,Matchweek 18,2021-08-25,Univ Católica,Home,Ñublense,D,0,40,90
+72,2021,Primera División,Matchweek 19,2021-08-28,Univ Católica,Away,Palestino,L,0,40,90
+73,2021,Primera División,Matchweek 20,2021-09-07,Univ Católica,Home,Audax Italiano,W,1,41,90
+74,2021,Primera División,Matchweek 21,2021-09-12,Univ Católica,Away,Curico Unido,W,2,43,90
+75,2021,Primera División,Matchweek 23,2021-09-29,Univ Católica,Home,Deportes Melipilla,W,1,44,90
+76,2021,Primera División,Matchweek 24,2021-10-02,Univ Católica,Away,La Calera,W,1,45,90
+77,2021,Primera División,Matchweek 25,2021-10-06,Univ Católica,Home,Unión Española,W,1,46,90
+78,2021,Primera División,Matchweek 27,2021-10-20,Univ Católica,Home,Wanderers,W,2,48,62
+79,2021,Primera División,Matchweek 28,2021-10-24,Univ Católica,Away,Colo-Colo,L,0,48,90
+80,2021,Primera División,Matchweek 29,2021-10-31,Univ Católica,Away,O'Higgins,W,2,50,90
+81,2021,Primera División,Matchweek 30,2021-11-04,Univ Católica,Home,Antofagasta,W,2,52,90
+82,2021,Primera División,Matchweek 31,2021-11-07,Univ Católica,Home,U de Chile,W,1,53,90
+83,2021,Primera División,Matchweek 32,2021-11-13,Univ Católica,Away,La Serena,W,0,53,90
+84,2020,Supercopa,Final,2021-11-18,Univ Católica,Home,Ñublense,D,1,54,90
+85,2021,Primera División,Matchweek 33,2021-11-28,Univ Católica,Home,Huachipato,W,1,55,90
+86,2021,Primera División,Matchweek 34,2021-12-04,Univ Católica,Away,Everton,W,0,55,90
+87,2021,Supercopa,Final,2022-01-23,Univ Católica,Home,Colo-Colo,L,0,55,90
+88,2022,Primera División,Matchweek 1,2022-02-05,Univ Católica,Away,Coquimbo Unido,W,2,57,90
+89,2022,Primera División,Matchweek 2,2022-02-13,Univ Católica,Home,Unión Española,W,0,57,90
+90,2022,Primera División,Matchweek 3,2022-02-20,Univ Católica,Home,Curico Unido,W,1,58,90
+91,2022,Primera División,Matchweek 4,2022-02-27,Univ Católica,Away,Palestino,L,1,59,90
+92,2022,Primera División,Matchweek 5,2022-03-06,Univ Católica,Away,Cobresal,L,0,59,90
+93,2022,Primera División,Matchweek 6,2022-03-12,Univ Católica,Home,Everton,L,0,59,90
+94,2022,Primera División,Matchweek 7,2022-03-19,Univ Católica,Away,O'Higgins,L,1,60,90
+95,2022,Primera División,Matchweek 8,2022-04-02,Univ Católica,Home,U de Chile,W,1,61,90
+96,2022,Libertadores,Group stage,2022-04-06,Univ Católica,Away,Talleres,L,0,61,90
+97,2022,Primera División,Matchweek 9,2022-04-09,Univ Católica,Home,La Serena,L,0,61,45
+98,2022,Libertadores,Group stage,2022-04-12,Univ Católica,Home,Sporting Cristal,W,1,62,90
+99,2022,Primera División,Matchweek 10,2022-04-17,Univ Católica,Away,Huachipato,L,0,62,90
+100,2022,Primera División,Matchweek 11,2022-04-24,Univ Católica,Home,Colo-Colo,D,1,63,89
+101,2022,Libertadores,Group stage,2022-04-28,Univ Católica,Home,Flamengo,L,0,63,90
+102,2022,Libertadores,Group stage,2022-05-04,Univ Católica,Away,Sporting Cristal,D,1,64,90
+103,2022,Primera División,Matchweek 13,2022-05-13,Univ Católica,Home,La Calera,W,2,66,90
+104,2022,Libertadores,Group stage,2022-05-17,Univ Católica,Away,Flamengo,L,0,66,90
+105,2022,Primera División,Matchweek 14,2022-05-21,Univ Católica,Away,Audax Italiano,L,1,67,90
+106,2022,Libertadores,Group stage,2022-05-24,Univ Católica,Home,Talleres,L,0,67,90
+107,2022,Primera División,Matchweek 15,2022-05-29,Univ Católica,Home,Antofagasta,W,0,67,90
+108,2021,Copa Chile,3rd round 1st leg,2022-06-18,Univ Católica,Away,San Felipe,W,2,69,90
+109,2021,Copa Chile,3rd round 2nd leg,2022-06-25,Univ Católica,Home,San Felipe,W,0,69,60
+110,2022,Sudamericana,Round of 16,2022-06-30,Univ Católica,Home,São Paulo,L,1,70,90
+111,2022,Primera División,Matchweek 16,2022-07-03,Univ Católica,Home,Coquimbo Unido,W,2,72,90
+112,2022,Sudamericana,Round of 16,2022-07-07,Univ Católica,Away,São Paulo,L,0,72,90
+113,2022,Primera División,Matchweek 18,2022-07-17,Univ Católica,Away,Curico Unido,L,0,72,90
+114,2022,Primera División,Matchweek 19,2022-07-24,Univ Católica,Home,Palestino,L,0,72,90
+115,2022,Primera División,Matchweek 20,2022-07-30,Univ Católica,Home,Cobresal,W,0,72,90
+116,2022,Primera División,Matchweek 21,2022-08-06,Univ Católica,Away,Everton,D,0,72,90
+117,2022,Primera División,Matchweek 22,2022-08-11,Univ Católica,Home,O'Higgins,D,1,73,90
+118,2021,Copa Chile,last 16 1st leg,2022-08-17,Univ Católica,Away,Audax Italiano,W,1,74,90
+119,2021,Copa Chile,last 16 2nd leg,2022-08-21,Univ Católica,Home,Audax Italiano,W,2,76,90
+120,2022,Primera División,Matchweek 23,2022-08-27,Univ Católica,Away,U de Chile,W,1,77,90
+121,2022,Primera División,Matchweek 24,2022-09-10,Univ Católica,Away,La Serena,W,1,78,90
+122,2022,Primera División,Matchweek 25,2022-09-14,Univ Católica,Home,Huachipato,W,1,79,90
+123,2021,Copa Chile,Quarter-Finals 1st leg,2022-09-25,Univ Católica,Away,U. de Chile,L,0,79,90
+124,2022,Primera División,Matchweek 26,2022-10-04,Univ Católica,Away,Colo-Colo,D,0,79,90
+125,2022,Primera División,Matchweek 27,2022-10-08,Univ Católica,Home,Ñublense,D,1,80,90
+126,2021,Copa Chile,Quarter-Finals 2nd leg,2022-10-14,Univ Católica,Home,U. de Chile,D,1,81,90
+127,2022,Primera División,Matchweek 17,2022-10-19,Univ Católica,Away,Unión Española,W,1,82,90
+128,2022,Primera División,Matchweek 28,2022-10-23,Univ Católica,Away,La Calera,L,0,82,90
+129,2022,Primera División,Matchweek 29,2022-10-31,Univ Católica,Home,Audax Italiano,D,0,82,90
+130,2022,Primera División,Matchweek 30,2022-11-06,Univ Católica,Away,Antofagasta,W,0,82,90
+131,2023,Primera División,Matchweek 1,2023-01-22,Univ Católica,Away,Everton,W,1,83,90
+132,2023,Primera División,Matchweek 2,2023-01-28,Univ Católica,Home,Curico Unido,W,0,83,90
+133,2023,Primera División,Matchweek 3,2023-02-03,Univ Católica,Away,Coquimbo Unido,L,0,83,90
+134,2023,Primera División,Matchweek 4,2023-02-12,Univ Católica,Home,Cobresal,D,1,84,90
+135,2023,Primera División,Matchweek 5,2023-02-18,Univ Católica,Away,Audax Italiano,W,0,84,90
+136,2023,Primera División,Matchweek 6,2023-02-25,Univ Católica,Home,Palestino,W,1,85,90
+137,2023,Primera División,Matchweek 7,2023-03-03,Univ Católica,Away,Ñublense,W,1,86,90
+138,2023,Sudamericana,First stage,2023-03-07,Univ Católica,Away,Audax Italiano,L,2,88,90
+139,2023,Primera División,Matchweek 8,2023-03-12,Univ Católica,Home,Unión Española,D,2,90,90
+140,2023,Primera División,Matchweek 9,2023-03-19,Univ Católica,Away,Deportes Magallanes,D,0,90,90
+141,2022,Copa Chile,First Round,2023-04-09,Univ Católica,Away,Deportes Colina,D,1,91,90
+142,2023,Primera División,Matchweek 10,2023-04-15,Univ Católica,Home,Colo-Colo,D,0,91,90
+143,2023,Primera División,Matchweek 11,2023-04-22,Univ Católica,Home,O'Higgins,L,0,91,90
+144,2023,Primera División,Matchweek 13,2023-05-10,Univ Católica,Home,Huachipato,L,1,92,90
+145,2023,Primera División,Matchweek 14,2023-05-14,Univ Católica,Away,Deportes Copiapó,W,2,94,90
+146,2023,Primera División,Matchweek 15,2023-05-20,Univ Católica,Home,La Calera,D,0,94,90
+147,2023,Primera División,Matchweek 12,2023-06-28,Univ Católica,Away,U de Chile,L,0,94,30
+148,2022,Copa Chile,Second Round,2023-07-03,Univ Católica,Home,Wanderers,W,0,94,12
+149,2023,Primera División,Matchweek 16,2023-07-08,Univ Católica,Home,Everton,L,0,94,31
+150,2023,Primera División,Matchweek 17,2023-07-16,Univ Católica,Away,Curico Unido,L,0,94,90
+151,2023,Primera División,Matchweek 18,2023-07-23,Univ Católica,Home,Coquimbo Unido,W,1,95,90
+152,2023,Primera División,Matchweek 19,2023-07-29,Univ Católica,Away,Cobresal,D,1,96,90
+153,2023,Primera División,Matchweek 20,2023-08-05,Univ Católica,Home,Audax Italiano,L,0,96,90
+154,2022,Copa Chile,Round of 16,2023-08-10,Univ Católica,Home,CD Everton,D,0,96,90
+155,2023,Primera División,Matchweek 21,2023-08-13,Univ Católica,Away,Palestino,L,0,96,90
+156,2022,Copa Chile,Quarter-Finals 1st leg,2023-08-17,Univ Católica,Home,Colo-Colo,D,0,96,90
+157,2022,Copa Chile,Quarter-Finals 2nd leg,2023-08-20,Univ Católica,Away,Colo-Colo,L,0,96,90
+158,2023,Primera División,Matchweek 22,2023-08-26,Univ Católica,Home,Ñublense,W,1,97,90
+159,2023,Primera División,Matchweek 23,2023-08-31,Univ Católica,Away,Unión Española,D,1,98,90
+160,2023,Primera División,Matchweek 25,2023-10-01,Univ Católica,Away,Colo-Colo,L,0,98,90
+161,2023,Primera División,Matchweek 26,2023-10-07,Univ Católica,Away,O'Higgins,W,3,101,84
+162,2023,Primera División,Matchweek 27,2023-11-11,Univ Católica,Home,U de Chile,L,0,101,90
+163,2023,Primera División,Matchweek 28,2023-11-25,Univ Católica,Away,Huachipato,D,1,102,90
+164,2023,Primera División,Matchweek 29,2023-12-02,Univ Católica,Home,Deportes Copiapó,D,0,102,90
+165,2024,Primera División,Matchweek 2,2024-02-23,Univ Católica,Home,Ñublense,L,0,102,38
+166,2024,Primera División,Matchweek 3,2024-03-02,Univ Católica,Away,Palestino,W,1,103,90
+167,2024,Sudamericana,First stage,2024-03-05,Univ Católica,Home,Coquimbo Unido,L,0,103,90
+168,2024,Primera División,Matchweek 4,2024-03-11,Univ Católica,Home,Everton,L,0,103,90
+169,2024,Primera División,Matchweek 5,2024-03-17,Univ Católica,Home,Audax Italiano,D,0,103,90
+170,2024,Primera División,Matchweek 1,2024-03-22,Univ Católica,Away,La Calera,D,0,103,90
+171,2024,Primera División,Matchweek 6,2024-03-30,Univ Católica,Away,Huachipato,D,0,103,90
+172,2024,Primera División,Matchweek 7,2024-04-06,Univ Católica,Home,Cobresal,W,1,104,69
+173,2024,Primera División,Matchweek 8,2024-04-13,Univ Católica,Away,Iquique,W,1,105,72
+174,2024,Primera División,Matchweek 9,2024-04-20,Univ Católica,Home,Colo-Colo,L,0,105,90
+175,2024,Primera División,Matchweek 10,2024-04-27,Univ Católica,Away,Deportes Copiapó,W,0,105,33
+176,2024,Primera División,Matchweek 11,2024-05-04,Univ Católica,Away,Unión Española,W,1,106,90
+177,2024,Primera División,Matchweek 12,2024-05-11,Univ Católica,Home,O'Higgins,W,2,108,90
+178,2024,Primera División,Matchweek 13,2024-05-18,Univ Católica,Away,U de Chile,W,1,109,89
+179,2024,Primera División,Matchweek 14,2024-05-25,Univ Católica,Home,Cobreloa,W,2,111,70
+180,2023,Copa Chile,Second Round 2nd leg,2024-06-29,Univ Católica,Home,Wanderers,D,0,111,90
+181,2024,Primera División,Matchweek 16,2024-07-20,Univ Católica,Home,La Calera,W,2,113,89
+182,2024,Primera División,Matchweek 17,2024-07-28,Univ Católica,Away,Ñublense,W,1,114,90
+183,2024,Primera División,Matchweek 18,2024-08-03,Univ Católica,Home,Palestino,D,0,114,90
+184,2024,Primera División,Matchweek 19,2024-08-11,Univ Católica,Away,Everton,D,0,114,90
+185,2024,Primera División,Matchweek 20,2024-08-18,Univ Católica,Away,Audax Italiano,L,1,115,90
+186,2024,Primera División,Matchweek 21,2024-08-25,Univ Católica,Home,Huachipato,W,1,116,82
+187,2024,Primera División,Matchweek 22,2024-08-28,Univ Católica,Away,Cobresal,L,1,117,70
+188,2024,Primera División,Matchweek 23,2024-08-31,Univ Católica,Home,Iquique,D,0,117,90
+189,2024,Primera División,Matchweek 25,2024-09-25,Univ Católica,Home,Deportes Copiapó,W,1,118,90
+190,2024,Primera División,Matchweek 26,2024-09-29,Univ Católica,Home,Unión Española,L,0,118,73
+191,2024,Primera División,Matchweek 24,2024-10-03,Univ Católica,Away,Colo-Colo,L,0,118,90
+192,2024,Primera División,Matchweek 28,2024-10-19,Univ Católica,Home,U de Chile,L,1,119,90
